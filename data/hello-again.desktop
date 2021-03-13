@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Hello Again
+GenericName=Hello World App
+Comment=Proves that we can use Bala and Gtk
+Categories=Utility;Education;
+Exec=com.github.Bumi10383.Application
+Icon=application-default-icon
+Terminal_false
+Type=Application
+KeywordsHello;World;Example;
